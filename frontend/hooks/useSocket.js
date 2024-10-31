@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-const WS_URL = "check-master.vercel.app";
+const WS_URL = "ws://localhost:8080";
 
 
 export const useSocket = () =>{

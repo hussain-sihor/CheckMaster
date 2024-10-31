@@ -1,5 +1,5 @@
 import { WebSocketServer } from 'ws';
-import {GameManager}  from '../src/GameManager.js';
+import {GameManager}  from './src/GameManager.js';
 import dotenv from 'dotenv';
 dotenv.config();
 
